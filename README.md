@@ -1,6 +1,8 @@
 # flutter_getx
 
-A new Flutter project.
+[ Flutter / 플러터 ] GetX 주요 기능 3가지 중 그 두번째 상태관리 #3
+
+https://www.youtube.com/watch?v=k3hgQu6it4c
 
 ## Getting Started
 
