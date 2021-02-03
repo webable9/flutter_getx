@@ -4,6 +4,8 @@
 
 https://www.youtube.com/watch?v=k3hgQu6it4c
 
+![CreatePlan](./lib/screenshot/main.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
