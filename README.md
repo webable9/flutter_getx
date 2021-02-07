@@ -1,8 +1,10 @@
 # flutter_getx
 
-[ Flutter / 플러터 ] GetX 주요 기능 3가지 중 그 두번째 상태관리 #3
+[ Flutter / 플러터 ] GetX란? 간단하게 훑어보자 #1
 
-https://www.youtube.com/watch?v=k3hgQu6it4c
+https://www.youtube.com/watch?v=RIR8W5kSfNE&t=15s
+
+![CreatePlan](./lib/screenshot/main.png)
 
 ## Getting Started
 
