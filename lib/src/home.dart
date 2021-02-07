@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_getx/pages/dependencys/dependencys_manage_page.dart';
 import 'package:flutter_getx/pages/reactive_state_manage_page.dart';
 import 'package:flutter_getx/pages/simple_state_manage_page.dart';
 import 'package:get/get.dart';
@@ -61,6 +62,18 @@ class Home extends StatelessWidget {
               child: Text("반응형상태관리"),
               onPressed: () {
                 Get.to(ReactiveStateManagePage());
+              },
+            ),
+            RaisedButton(
+              child: Text("의존성관리"),
+              onPressed: () {
+                Get.to(DependencyManagePage());
+              },
+            ),
+            RaisedButton(
+              child: Text("바인딩관리"),
+              onPressed: () {
+                Get.toNamed("/binding");
               },
             ),
           ],

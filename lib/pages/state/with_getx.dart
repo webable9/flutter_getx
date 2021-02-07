@@ -11,7 +11,7 @@ class WithGetX extends StatelessWidget {
     return RaisedButton(
       child: Text("+", style: TextStyle(fontSize: 30)),
       onPressed: () {
-        _controllerWithGetX.increase(id);
+        _controllerWithGetX.increase();
       },
     );
   }
